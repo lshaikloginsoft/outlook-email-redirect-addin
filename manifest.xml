@@ -27,7 +27,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://localhost:3000/taskpane.html"/>
+        <SourceLocation DefaultValue="https://github.com/lshaikloginsoft/outlook-email-redirect-addin/blob/main/taskpane.html"/>
         <RequestedHeight>300</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -82,7 +82,7 @@
         <bt:Image id="Icon80" DefaultValue="https://via.placeholder.com/80"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="TaskpaneUrl" DefaultValue="https://localhost:3000/taskpane.html"/>
+        <bt:Url id="TaskpaneUrl" DefaultValue="https://github.com/lshaikloginsoft/outlook-email-redirect-addin/blob/main/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="Redirect"/>
